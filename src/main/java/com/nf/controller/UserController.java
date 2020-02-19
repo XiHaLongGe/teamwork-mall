@@ -8,6 +8,6 @@ package com.nf.controller;
  */
 public class UserController {
     public void insert(){
-        System.out.println("UserController.......insert................");
+        System.out.println("UserController.......delete................");
     }
 }
