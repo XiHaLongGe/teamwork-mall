@@ -10,4 +10,7 @@ public class ProductDao {
     public void insert(){
         System.out.println("商品信息的添加方法。。。");
     }
+    public void update(){
+        System.out.println("商品信息的修改方法。。。");
+    }
 }
