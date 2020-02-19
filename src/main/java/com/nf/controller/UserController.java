@@ -7,6 +7,9 @@ package com.nf.controller;
  * @Description:
  */
 public class UserController {
+    /**
+     * 这是张某为insert方法写的注释：这是一个insert方法
+     */
     public void insert(){
         System.out.println("UserController............update...........");
     }
