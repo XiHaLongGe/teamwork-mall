@@ -11,6 +11,6 @@ public class UserDao {
         System.out.println("test...........");
     }
     public void insert(){
-        System.out.println("insert................");
+        System.out.println("UserDao.......insert................");
     }
 }
