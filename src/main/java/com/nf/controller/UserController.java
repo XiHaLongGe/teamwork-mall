@@ -9,7 +9,6 @@ package com.nf.controller;
 public class UserController {
     /**
      * 这是张某为insert方法写的注释：这是一个insert方法
-     *在提交一次
      */
     public void insert(){
         System.out.println("UserController.......insert................");
