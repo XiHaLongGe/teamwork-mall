@@ -8,7 +8,7 @@ package com.nf.controller;
  */
 public class UserController {
     /**
-     * 这这是一个insert方法
+     * 这是一个insert方法
      */
     public void insert(){
         System.out.println("UserController............insert...........");
